@@ -5,6 +5,7 @@
   <img src="https://img.shields.io/badge/C++-Dev-blue?style=flat-square&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Ethical-Hacking-purple?style=flat-square&logo=linux&logoColor=white" />
   <img src="https://img.shields.io/badge/Cloud%20Dev-AWS-orange?style=flat-square&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Web%20Dev-Full%20Stack-29a0d9?style=flat-square&logo=html5&logoColor=white" />
 </p>
 
 <p align="center">
