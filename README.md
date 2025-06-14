@@ -45,9 +45,9 @@ It’s up and running — but the journey to making it *marvelous* has just begu
 | 💡 Project | 🔎 Description |
 |-----------|----------------|
 | 🔐 [**HashGate Authentication System**](https://github.com/atharvbyadav/HashGate-Authentication-System) | Custom login system using cryptographic hashing and session hardening. |
+| 🌐 [**GhostPath**](https://atharvbyadav.github.io/GhostPath/) | Advanced URL discovery tool integrated with ReconX for deep reconnaissance. |
 | 🧠 [**TheGuessingGame**](https://github.com/atharvbyadav/TheGuessingGame) | C++ CLI logic-based game for terminal fun. |
 | 🏪 [**Dark Store Feasibility Analysis**](https://github.com/atharvbyadav/Dark-Store-Feasibility-Analysis) | Data-driven research into supply chain models for instant delivery services. |
-| 🌐 [**GhostPath**](https://atharvbyadav.github.io/GhostPath/) | Advanced URL discovery tool integrated with ReconX for deep reconnaissance. |
 | 💸 [**ExpenseMate**](https://github.com/atharvbyadav/ExpenseMate) | Lightweight personal expense tracker with clean data logic and reporting tools. |
 | 📚 [**BookstoreIMS**](https://github.com/atharvbyadav/BookstoreIMS) | Inventory management system tailored for bookstores with seamless UI and reporting. |
 | 🎮 [**GuessMaster**](https://github.com/atharvbyadav/GuessMaster) | A real-time SFML GUI game with responsive input and engaging graphics. |
