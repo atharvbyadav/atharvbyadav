@@ -1,5 +1,5 @@
 <h1 align="center">🌐 Atharv Yadav</h1>
-<h3 align="center"><em>Building secure, intelligent, and scalable solutions in Application Development, Cybersecurity, and Cloud</em></h3>
+<h3 align="center"><em>Building secure, intelligent and scalable solutions in Application Development, Cybersecurity and Cloud</em></h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/C++-Dev-blue?style=flat-square&logo=c%2B%2B&logoColor=white" />
@@ -88,7 +88,7 @@ Soft Skills:   Communication • Presentation • Team Leadership • Research �
 ---
 ## 💬 Prefer Direct Chat?
 
-> Reach out via LinkedIn or email — always open to collaborating on security tools, dev utilities, and open source innovation.
+> Reach out via LinkedIn or email — always open to collaborating on security tools, dev utilities and open source innovation.
 
 ## 📫 Connect With Me
 
