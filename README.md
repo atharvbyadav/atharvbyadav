@@ -45,7 +45,7 @@ It’s up and running — but the journey to making it *marvelous* has just begu
 | 💡 Project | 🔎 Description |
 |-----------|----------------|
 | 🔐 [**HashGate Authentication System**](https://github.com/atharvbyadav/HashGate-Authentication-System) | Custom login system using cryptographic hashing and session hardening. |
-| 🌐 [**GhostPath**](https://github.com/atharvbyadav/GhostPath) | Advanced URL discovery tool integrated with ReconX for deep reconnaissance. |
+| 🌐 [**GhostPath**](https://github.com/atharvbyadav/GhostPath) | Discover subdomains, probe paths, mine archives and hunt certificates. |
 | 🧠 [**TheGuessingGame**](https://github.com/atharvbyadav/TheGuessingGame) | C++ CLI logic-based game for terminal fun. |
 | 🏪 [**Dark Store Feasibility Analysis**](https://github.com/atharvbyadav/Dark-Store-Feasibility-Analysis) | Data-driven research into supply chain models for instant delivery services. |
 | 💸 [**ExpenseMate**](https://github.com/atharvbyadav/ExpenseMate) | Lightweight personal expense tracker with clean data logic and reporting tools. |
