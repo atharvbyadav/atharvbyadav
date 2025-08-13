@@ -1,48 +1,24 @@
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FF007F&center=true&vCenter=true&width=600&lines=%F0%9F%94%90+Atharv+Yadav+%F0%9F%94%90;Cybersecurity+Engineer;Open+Source+Builder;Cloud+%26+Application+Developer;ReconX+Creator+%7C+Security+Innovator" alt="Glitch Header" />
+</p>
+
 
 <p align="center">
-<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="200">
-  <defs>
-    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#29a0d9;stop-opacity:1" />
-      <stop offset="50%" style="stop-color:#8a2be2;stop-opacity:1" />
-      <stop offset="100%" style="stop-color:#ff007f;stop-opacity:1" />
-    </linearGradient>
-  </defs>
-  <rect width="100%" height="200" fill="url(#grad)" rx="15" />
-  <text x="50%" y="45%" dominant-baseline="middle" text-anchor="middle" font-family="Fira Code, monospace" font-size="42" fill="#fff" font-weight="bold">
-    🌐 Atharv Yadav 🌐
-  </text>
-  <text x="50%" y="70%" dominant-baseline="middle" text-anchor="middle" font-family="Fira Code, monospace" font-size="20" fill="#fff">
-    Cybersecurity Engineer | Open Source Builder | Cloud Developer
-  </text>
-</svg>
+  <img src="https://i.imgur.com/UJ6hVju.gif" width="650" alt="Glitch Banner">
+</p>
+
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=1&pause=2000&color=29A0D9&background=000000&center=true&vCenter=true&width=650&lines=atharvbyadav@github:~$+cat+README.md;Building+Secure+%26+Scalable+Solutions;Application+Dev+|+Cybersecurity+|+Cloud" alt="Terminal Header" />
 </p>
 
 
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:29a0d9,100:8a2be2&height=180&section=header&text=%F0%9F%8C%90%20Atharv%20Yadav&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36" />
-</p>
-<p align="center"><em>Cybersecurity Engineer · Open Source Builder · Cloud Developer</em></p>
-
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=gradient&color=0:29a0d9,100:8a2be2&height=200&section=header&text=Atharv%20Yadav&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
-</p>
-
-<pre align="center">
-██╗  ██╗████████╗ █████╗ ██████╗ ██╗   ██╗
-██║  ██║╚══██╔══╝██╔══██╗██╔══██╗╚██╗ ██╔╝
-███████║   ██║   ███████║██████╔╝ ╚████╔╝ 
-██╔══██║   ██║   ██╔══██║██╔═══╝   ╚██╔╝  
-██║  ██║   ██║   ██║  ██║██║        ██║   
-╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝        ╚═╝   
-</pre>
 
 
 
-
+---
 
 <p align="center">
   <em>Building secure, intelligent, and scalable solutions in <b>Application Development</b>, <b>Cybersecurity</b> & <b>Cloud</b>.</em>
