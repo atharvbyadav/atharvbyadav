@@ -2,9 +2,9 @@
   <img src="https://github-widgetbox.vercel.app/api/profile?username=atharvbyadav&data=followers,repositories,stars,commits&theme=darkmode" />
 </p>
 
-<!-- Typing + Glitch Effect Banner -->
+<!-- Glitch Text -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=30&pause=1000&color=29A0D9&center=true&vCenter=true&width=800&lines=%24+whoami;Atharv+Yadav;Cybersecurity+Engineer+%7C+Open+Source+Builder;Cloud+Developer+%7C+Team+Leader;Always+Aim+for+the+Impossible" alt="Typing Animation" />
+  <img src="https://user-images.githubusercontent.com/0000000/0000000-glitch.gif" alt="Glitch Banner" width="80%">
 </p>
 
 
