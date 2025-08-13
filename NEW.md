@@ -129,4 +129,8 @@
 **Connect:** [🌐 Portfolio](https://atharvbyadav.github.io) | [💼 LinkedIn](https://linkedin.com/in/atharvbyadav) | [🐦 Twitter](https://twitter.com/atharvbyadav_) | [📧 Email](mailto:uuwr5t1s@duck.com)  
 
 > `"Don’t just scan the surface — enumerate everything."`
-```
+
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/0000000/0000000-glitch.gif" alt="Glitch Banner" width="80%">
+</p>
