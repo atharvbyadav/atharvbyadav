@@ -1,8 +1,24 @@
 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=gradient&color=0:29a0d9,50:8a2be2,100:ff007f&height=220&section=header&text=%F0%9F%8C%90%20Atharv%20Yadav%20%F0%9F%8C%90&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Cybersecurity%20Engineer%20%7C%20Open%20Source%20Builder%20%7C%20Cloud%20Developer" />
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="200">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#29a0d9;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#8a2be2;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#ff007f;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <rect width="100%" height="200" fill="url(#grad)" rx="15" />
+  <text x="50%" y="45%" dominant-baseline="middle" text-anchor="middle" font-family="Fira Code, monospace" font-size="42" fill="#fff" font-weight="bold">
+    🌐 Atharv Yadav 🌐
+  </text>
+  <text x="50%" y="70%" dominant-baseline="middle" text-anchor="middle" font-family="Fira Code, monospace" font-size="20" fill="#fff">
+    Cybersecurity Engineer | Open Source Builder | Cloud Developer
+  </text>
+</svg>
 </p>
+
 
 
 <p align="center">
