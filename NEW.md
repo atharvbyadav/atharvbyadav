@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:29a0d9,100:8a2be2&height=200&section=header&text=Atharv%20Yadav&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=gradient&color=0:29a0d9,50:8a2be2,100:ff007f&height=220&section=header&text=🌐%20Atharv%20Yadav%20🌐&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Cybersecurity%20Engineer%20%7C%20Open%20Source%20Builder%20%7C%20Cloud%20Developer&descAlignY=60&descSize=18" />
 </p>
+
 
 <p align="center">
   <em>Building secure, intelligent, and scalable solutions in <b>Application Development</b>, <b>Cybersecurity</b> & <b>Cloud</b>.</em>
