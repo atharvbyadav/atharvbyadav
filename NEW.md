@@ -1,16 +1,18 @@
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FF007F&center=true&vCenter=true&width=600&lines=%F0%9F%94%90+Atharv+Yadav+%F0%9F%94%90;Cybersecurity+Engineer;Open+Source+Builder;Cloud+%26+Application+Developer;ReconX+Creator+%7C+Security+Innovator" alt="Glitch Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=600&lines=%24%20Atharv%20Yadav;Cybersecurity+Engineer+%7C+Open+Source+Builder;Cloud+Developer+%7C+Security+Researcher;Always+Aim+for+the+Impossible" alt="Typing SVG" />
 </p>
 
 
 <p align="center">
-  <img src="https://i.imgur.com/UJ6hVju.gif" width="650" alt="Glitch Banner">
+  <img src="https://see.fontimg.com/api/renderfont4/8MO0/eyJyIjoiZnMiLCJoIjo2MCwidyI6MTAwMCwiZnMiOjQ4LCJmZ2MiOiIjRkZGRkZGIiwiYmdjIjoiIzAwMDAwMCIsInQiOjF9/QVRIQVJWIFlBREFW/the-glitch-demo.png" alt="Glitch Text Banner" />
 </p>
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=1&pause=2000&color=29A0D9&background=000000&center=true&vCenter=true&width=650&lines=atharvbyadav@github:~$+cat+README.md;Building+Secure+%26+Scalable+Solutions;Application+Dev+|+Cybersecurity+|+Cloud" alt="Terminal Header" />
+  <img src="https://see.fontimg.com/api/renderfont4/8MO0/eyJyIjoiZnMiLCJoIjo2MCwidyI6MTAwMCwiZnMiOjQ4LCJmZ2MiOiIjRkZGRkZGIiwiYmdjIjoiIzAwMDAwMCIsInQiOjF9/QVRIQVJWIFlBREFW/the-glitch-demo.png" alt="Glitch Text Banner" />
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=600&lines=Cybersecurity+Engineer+%7C+Open+Source+Builder;Cloud+Developer+%7C+Security+Researcher;Always+Aim+for+the+Impossible" alt="Typing SVG" />
 </p>
 
 
