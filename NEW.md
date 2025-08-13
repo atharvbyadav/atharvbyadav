@@ -1,13 +1,15 @@
+<!-- Typing + Glitch Effect Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=29A0D9&background=000000&center=true&vCenter=true&width=700&lines=%24%20whoami;atharv.yadav%40github;Cybersecurity+Engineer+%7C+Cloud+Developer;Open+Source+Builder+%7C+ReconX+Creator" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=30&pause=1000&color=29A0D9&center=true&vCenter=true&width=800&lines=%24+whoami;Atharv+Yadav;Cybersecurity+Engineer+%7C+Open+Source+Builder;Cloud+Developer+%7C+Team+Leader;Always+Aim+for+the+Impossible" alt="Typing Animation" />
 </p>
 
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=120&section=header&text=ATHARV%20YADAV&fontSize=50&fontColor=29A0D9&animation=blink&fontAlignY=35" />
+  <img src="https://github-widgetbox.vercel.app/api/profile?username=atharvbyadav&data=followers,repositories,stars,commits&theme=darkmode" />
 </p>
+
+<!-- Glitch Text -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=20&pause=800&color=FF007F&background=000000&center=true&vCenter=true&width=650&lines=Building+Secure%2C+Intelligent+and+Scalable+Solutions;Cybersecurity+%E2%9A%A1+Cloud+%E2%9A%A1+Open+Source;Always+Aim+for+the+Impossible" alt="Glitch Typing" />
+  <img src="https://user-images.githubusercontent.com/0000000/0000000-glitch.gif" alt="Glitch Banner" width="80%">
 </p>
 
 
