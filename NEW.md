@@ -57,28 +57,10 @@
 </p>
 
 <p align="center">
-  <img src="leetcode" />
+  <img src="youtube,leetcode,coursera,linkedin" />
 </p>
 
-<p align="center">
-  <img src="github" />
-</p>
 
-<p align="center">
-  <img src="github" />
-</p>
-
-<p align="center">
-  <img src="github" />
-</p>
-
-<p align="center">
-  <img src="github" />
-</p>
-
-<p align="center">
-  <img src="github" />
-</p>
 ---
 
 ## 🎯 What’s Next?
