@@ -52,6 +52,33 @@
   <img src="https://skillicons.dev/icons?i=cpp,python,js,html,css,c,bootstrap,linux,git,aws,vscode,streamlit,github" />
 </p>
 
+<p align="center">
+  <img src="github" />
+</p>
+
+<p align="center">
+  <img src="leetcode" />
+</p>
+
+<p align="center">
+  <img src="github" />
+</p>
+
+<p align="center">
+  <img src="github" />
+</p>
+
+<p align="center">
+  <img src="github" />
+</p>
+
+<p align="center">
+  <img src="github" />
+</p>
+
+<p align="center">
+  <img src="github" />
+</p>
 ---
 
 ## 🎯 What’s Next?
