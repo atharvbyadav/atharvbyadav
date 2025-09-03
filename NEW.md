@@ -49,7 +49,7 @@
 
 ## 🛠️ Skill Arsenal
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,js,html,css,c,bootstrap,linux,git,aws,vscode,streamlit" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,html,css,c,bootstrap,linux,git,aws,vscode,streamlit,github" />
 </p>
 
 ---
