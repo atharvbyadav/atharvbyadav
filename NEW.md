@@ -52,7 +52,9 @@
   <img src="https://skillicons.dev/icons?i=cpp,python,js,html,css,c,bootstrap,linux,git,aws,vscode,streamlit,github,youtube,leetcode,coursera,linkedin" />
 </p>
 
-
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=github" />
+</p>
 
 ---
 
