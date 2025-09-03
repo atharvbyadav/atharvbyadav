@@ -49,16 +49,9 @@
 
 ## 🛠️ Skill Arsenal
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,js,html,css,c,bootstrap,linux,git,aws,vscode,streamlit,github" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,html,css,c,bootstrap,linux,git,aws,vscode,streamlit,github,youtube,leetcode,coursera,linkedin" />
 </p>
 
-<p align="center">
-  <img src="github" />
-</p>
-
-<p align="center">
-  <img src="youtube,leetcode,coursera,linkedin" />
-</p>
 
 
 ---
